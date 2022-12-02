@@ -5,3 +5,5 @@
 - [x] 3. [Админка, описание блоков](/Website/Admin_panel.md)
 - [x] 4. [Панель управления и логика](Website/Control_logic/Control_logic.md)
 - [x] 5. [Страницы авторизированного пользователя](Website/Authorized_user_pages/Authorized_user_pages.md)
+
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
